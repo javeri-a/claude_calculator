@@ -46,4 +46,5 @@ This application is designed to be easily deployable on [Streamlit Cloud](https:
 4.  Select your repository (`javeri-a/claude_calculator`) and set the "Main file path" to `calculator.py`.
 5.  Click "Deploy!".
 
-Streamlit Cloud will handle the rest, building and deploying your application, and providing you with a public URL.
+Streamlit Cloud will handle the rest, building and deploying your application, and providing you with a public URL:https://javeri-a-claude-calculator-calculator-mpv973.streamlit.app/
+
